@@ -1,2 +1,2 @@
 # WebDevPortfolio
-My web development portfolio
+My web development portfolio.
